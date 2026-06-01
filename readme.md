@@ -1,5 +1,8 @@
-# Aziz | FULL stack Developer
+# Aziz | Backend + Ai agent engineer | Saas automation | Open to remote 
 
-Learning Node.js, Express, PostgreSQL and JWT auth.
+
+
+Current skils= html ,css, js ,python, nodejs
+Learning  Express, PostgreSQL and JWT auth, vector database, langchain,langsmith,typescript,tool calling ,claude api
 Building a full expense tracker REST API.
 Open to remote work.
