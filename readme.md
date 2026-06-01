@@ -3,6 +3,6 @@
 
 
 Current skils= html ,css, js ,python, nodejs
-Learning  Express, PostgreSQL and JWT auth, vector database, langchain,langsmith,typescript,tool calling ,claude api
+,Learning  Express, PostgreSQL and JWT auth, vector database, langchain,langsmith,typescript,tool calling ,claude api
 Building a full expense tracker REST API.
 Open to remote work.
