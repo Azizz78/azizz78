@@ -8,17 +8,27 @@
 - JavaScript
 - Python
 - Node.js
-
-📚 Learning
 - Express.js
+
+📚 what i will be Learning
+- fastify
+- Typescirpt
 - PostgreSQL
 - JWT Authentication
+- redis
+- Fast API
+- open API SDK direct
 - Vector Databases
+- streaming SSE
+- RAG
 - LangChain
 - LangSmith
-- TypeScript
 - Tool Calling
-- Claude API
+- Claude SDK direct
+- Docker 
+- Linux
+- AWS S3 
+- AWS CP
 
 🛠️ Building
 - Full Expense Tracker REST API with ai intergrations
