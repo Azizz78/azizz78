@@ -9,6 +9,7 @@
 - Python
 - Node.js
 - Express.js
+- Typescript
 
 📚 what i will be Learning
 - fastify
@@ -31,7 +32,8 @@
 - AWS CP
 
 🛠️ Building
-- Full Expense Tracker REST API with ai intergrations
+- Ai code reviewer
+- Text to sql data assistant
 
 💼 Open to
 - Remote Work
